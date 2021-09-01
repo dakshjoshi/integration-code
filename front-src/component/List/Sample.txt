@@ -1,0 +1,69 @@
+Common variable between Nexus and Nsure : 
+1. name
+
+Variables to be used for Nsure: 
+1. minDuration, maxDuration
+2. address
+3. total sum insured
+
+Nexus : 
+  "0x8B3d70d628Ebd30D4A2ea82DB95bA2e906c71633":{
+    "name":"bZx",
+    "type": "contract",
+    "dateAdded":"2020-01-01",
+    "logo":"https://api.nexusmutual.io/coverables/images/bzx.png",
+    "github":"https://github.com/bZxNetwork",
+    "messari":"",
+    isDeperecated : ""
+  },
+
+  {"capacityETH":"171501998833160335240","capacityDAI":"360971244826095275580000","netStakedNXM":"2244441892717384219100","capacityLimit":"STAKED_CAPACITY"}
+
+Nsure : {
+        "amount": 0,
+        "status": 0,
+        "riskLevel": 1,
+        "risLevel": 5,
+        "premiumRate": 0.0016087671232876712,
+        "averagePremiumRate": 0,
+        "rate": 0.2,
+        "coverAvailableAmount": 300151008133208900000,
+        "coverSoldAmount": 692000000000000000000,
+        "stakeApy": 0,
+        "no1": 92,
+        "no2": 91.5,
+        "no3": 92,
+        "no4": 90,
+        "no5": 99,
+        "demandScaleFactor": 0.0001,
+        "riskAdjustFactor": 0.2,
+        "stakingScaleFactor": 0.001,
+        "alpha": 0.95,
+        "totalSumInsured": 0,
+        "totalSumInsuredEth": 0,
+        "stakingPoolPower": 1.6043831899999982e+24,
+        "averageClaimCost": 0,
+        "securityRating": 1,
+        "minDuration": 30,
+        "maxDuration": 365,
+        "priceFactor": 3,
+        "_id": "606d1619e7df3a05620dfed4",
+        "uid": 2,
+        "name": "Aave V2",
+        "website": "https://app.aave.com",
+        "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "team": "Launched in 2020 Jan, not attacked up to 2021 Mar 31, team profile is public.",
+        "exposure": "Market share in the past 4Q: 13.0%, 12.2%, 12.7%, 10.9%. Business type: lending (offer flashloan). Oracle: Chainlink.",
+        "audit": "Auditor: MixBytes, PeckShield, Certik and Consensys Diligence (multiple review). Formal verification done. High risk issue found in first audit but fixed.",
+        "code_quality": "Good documentation, clear comments and traceability. Test done but code coverage not visible.",
+        "developer": "Bug bounty-Y(up to $250,000); 3 issues raised in github contract repository",
+        "logo": {
+          "id": "606d1619e7df3a05620dfed3",
+          "filename": "606d1619e7df3a05620dfed3-aave.png",
+          "originalFilename": "aave.png",
+          "mimetype": "image/png",
+          "encoding": "7bit"
+        },
+        "__v": 0,
+        "premium": 0
+      },

@@ -1,0 +1,7 @@
+1. Ask Nsure Network to put a type on each product for easy differentiation, like Nexus Mutual has done.
+2. Ask Nsure Network to put the link of the logo instead of the name of it.
+3. Ask them to put a category/tags in their apis from which people can buy it/find it.
+4. Ask Nsure Network to add a supported chains 
+
+1. We can give our users to seach for coverages directly by address
+2. Add a provider to each and every product : "Nsure network, Nexus Mutual, etc"
